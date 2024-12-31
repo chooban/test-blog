@@ -1,6 +1,6 @@
 module github.com/chooban/test-blog
 
-go 1.23.2
+go 1.23
 
 require (
 	github.com/1bl4z3r/hermit-V2 v1.1.17 // indirect
