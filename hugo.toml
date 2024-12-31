@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-gb'
+title = 'Ross Hendry'
+theme = 'github.com/1bl4z3r/hermit-V2'
+
+[params]
+[[params.socialLinks]]
+name = "bluesky"
+url = "https://bsky.app/profile/rosshendry.com"
+
+[[params.socialLinks]]
+name = "github"
+url = "https://github.com/chooban/"
